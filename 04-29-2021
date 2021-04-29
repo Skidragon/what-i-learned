@@ -1,0 +1,34 @@
+# 04-29-2021 (Excel, Markup, Github, & Health)
+- Sources of where I learned:
+  - [Microsoft Excel Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=Vl0H-qTclOg&list=PLoXoLJVIzlzGTC_42Lj-NQMcrkURZmzvw&index=1&t=7957s)
+- Excel (Google Sheets)
+  - The VLookUp function can be used with a table of data, it uses the same concept as a hash table.
+  - A pivot table is great for creating a better summary table for a larger and more extensive table. Great for creating cleaner reports.
+  - Absolute Referencing is used to always reference a particular column and/or row by using the $, for example, $A5 would always reference a cell in the A column but row 5 will update dynamically.
+- Accomplishments
+  - [Shopping List](https://docs.google.com/spreadsheets/d/1mRsChSTm1CfoF4HEZu0vmte9laHg62hNWTnjNsKuR74/edit?usp=sharing)
+    - Created a solution to create multiple shopping lists and figure out the best store to shop at for the price.
+    - Learned how to use a cell referencing from another sheet.
+    - Creating multiple sheets.
+    - How to create a bar chart that is customized to show labels on the bars and update the bars' colors.
+  - [Grade Book](https://docs.google.com/spreadsheets/d/1uF-cukxcofrYKLXRYyq8keEJuX8RXFb2b6inEcXpaVA/edit?usp=sharing)
+    - A solution to figure out which employees to fire or keep.
+    - Learned how to use conditional formatting.
+    - Learned how to save more space using text direction.
+  - [Career Decisions](https://docs.google.com/spreadsheets/d/1tdNtu-tR5n2RgmeEqtq53Kv8KiP97Y1A65o_MKmxRDg/edit?usp=sharing)
+    - A solution using points in order to figure out what is the best career to choose.
+    - Learned how to filter and sort.
+    - Also how to color the background for a set of cells to make it easier for the eyes to discern.
+  - [Employee Payroll](https://docs.google.com/spreadsheets/d/13ftt0Ru9R4SzQDyWMGfIFRppnE9_Ly2NWP-1bTgY90g/edit?usp=sharing)
+    - A solution to figure out how much to pay employees weekly
+    - How to freeze or make columns sticky.
+    - How to increment dates by any number.
+    - How to use functions like sum, min, max, and etc.
+- Markup
+  - How to create links.
+- Github
+  - [How to delete multiple repositories](https://reporemover.xyz/)
+- Health
+  - Fixing leaky gut
+    - Using digestive enzymes to break down food.
+    - Collagen to repair the cell walls of the gut since this allows substances to enter the blood stream immediately.
