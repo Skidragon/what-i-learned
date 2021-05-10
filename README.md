@@ -15,6 +15,7 @@ This repo is to show a summary of what I learned and accomplished almost every d
         - Notion (Note Taking & Organizing Projects)
         - Boostnote
         - OBS Studio (Record Videos)
+    - Strategy Games
     - Languages
         - English (Native Language)
         - Latin (Where Romantic languages derive from)
