@@ -1,3 +1,48 @@
 # what-i-learned
 
-This repo is to show a summary of what I learned.
+This repo is to show a summary of what I learned and accomplished almost every day. I will try my best to commit to this repo as long as I. See below on what I might write about but it will be mostly programming and tech related content.
+## Here are what subjects I'm constantly learning and/or interested in:
+    - Programming
+        - Paradigms
+        - Design Patterns
+        - Games
+        - Web Scraping
+        - Low Level Languages
+        - Data Structures
+        - Algorithms
+    - Programs
+        - Excel/Google Sheets
+        - Notion (Note Taking & Organizing Projects)
+        - Boostnote
+        - OBS Studio (Record Videos)
+    - Languages
+        - English (Native Language)
+        - Latin (Where Romantic languages derive from)
+        - Spanish
+        - Tagalog
+        - Japanese
+    - Brain and Psychology
+        - Hormones (Melatonin, Seratonin, and etc.)
+        - Phantasia (The ability to see an object visually with your eyes closed)
+        - Dreams (Interpretation)
+        - Social Interactions
+        - Social Paradigms
+    - Philosophy
+    - Music
+        - Piano
+        - Singing and improving normal speaking voice
+    - Biohacking
+        - Red Light Therapy
+        - Saunas to create a heat stressor for the body
+        - Earthing
+        - Exercise
+        - Breathing from the diaphragm
+    - Health
+        - Using food as medicine and long lasting energy to keep the body and brain to be at its max efficiency
+        - Alternative Therapies such as photobiomodulation (Light Therapy) and stem cell therapy
+        - Healing Effects of Nature
+        - The Effect of Vitamins and Minerals in the body
+        - Gut Microbiome
+    - Finances
+        - Investing in real estate and the stock market.
+        - Bitcoin
