@@ -1,6 +1,6 @@
 # what-i-learned
 
-This repo is to show a summary of what I learned and accomplished almost every day. I will try my best to commit to this repo as long as I. See below on what I might write about but it will be mostly programming and tech related content.
+This repo is to show a summary of what I learned and accomplished almost every day. I will try my best to commit to this repo as long as I feel fine. See below on what I might write about but it will be mostly programming and tech related content.
 ## Here are what subjects I'm constantly learning and/or interested in:
     - Programming
         - Paradigms
